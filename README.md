@@ -1,4 +1,4 @@
-# Rust excersises
+# Rust exercises
 
 Rustの基本的な文法と、考え方を学ぶためのエクササイズ集です。
 
