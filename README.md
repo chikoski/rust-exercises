@@ -28,4 +28,8 @@ Rustの基本的な文法と、考え方を学ぶためのエクササイズ集�
 
 ## Acknowledgement 
 
-エクササイズ1, 2, 3, 4は[intorust](https://intorust.com/)にあるものを利用/参考にさせていただきました。
+エクササイズ1, 2, 3, 4は[intorust](https://intorust.com/)にあるものを参考にさせていただきました。
+
+## LISENCE
+
+[MIT](LICENSE)
