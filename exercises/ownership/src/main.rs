@@ -31,7 +31,7 @@ fn remove_hiragana(text: String) -> String {
     */
     let result = String::new();
     for c in text.chars() {
-        if c < 'あ' || 'ん' < c {
+        if c < 'ぁ' || 'ん' < c {
             result.push(c);
         };
     }
