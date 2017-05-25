@@ -4,12 +4,13 @@ Rustの基本的な文法と、考え方を学ぶためのエクササイズ集�
 
 |内容|フォルダ名|
 |---|--------|
-|[Hello world](/exercises/hello_world/)|hello_world|
-|[所有権に関するもの](/exercises/ownership/)|ownership|
-|[参照に関するもの](/exercises/reference/)|reference|
-|[変更可能な参照に関するもの](/exercises/mutable_reference/)|mutable_reference|
-|[nullを返す可能性のある関数](/exercises/option/)|option|
-|[動的計画法に関するもの](/exercises/fibonacci/)|fibonacci|
+|[Hello world](exercises/hello_world/)|hello_world|
+|[所有権に関するもの](exercises/ownership/)|ownership|
+|[参照に関するもの](exercises/reference/)|reference|
+|[変更可能な参照に関するもの](exercises/mutable_reference/)|mutable_reference|
+|[nullを返す可能性のある関数](exercises/option/)|option|
+|[エラーを起こす可能性のある関数](/exercises/result/)|result|
+|[動的計画法に関するもの](exercises/fibonacci/)|fibonacci|
 
 ## 楽しみ方
 
