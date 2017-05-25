@@ -7,8 +7,9 @@ Rustの基本的な文法と、考え方を学ぶためのエクササイズ集�
 |[Hello world](/exercises/hello_world/)|hello_world|
 |[所有権に関するもの](/exercises/ownership/)|ownership|
 |[参照に関するもの](/exercises/reference/)|reference|
-|[変更可能な参照に関するもの](/excersises/mutable_reference/)|mutable_reference|
-|[動的計画法に関するもの](/excersises/fibonacci/)|fibonacci|
+|[変更可能な参照に関するもの](/exercises/mutable_reference/)|mutable_reference|
+|[nullを返す可能性のある関数](/exercises/option/)|option|
+|[動的計画法に関するもの](/exercises/fibonacci/)|fibonacci|
 
 ## 楽しみ方
 
@@ -17,6 +18,19 @@ Rustの基本的な文法と、考え方を学ぶためのエクササイズ集�
 3. そのエクササイズのフォルダをターミナルで開く
 4. src/main.rsをエディタ/IDEで開く
 5. Enjoy!
+
+### Cargoを使ったコンパイル
+
+コンパイルはcargoコマンドを使って行います。
+使い方は次をご覧ください。
+
+~~~sh
+$ cargo build # デバッグビルドの作成
+$ cargo build --release # リリースビルドの作成
+$ cargo run # ビルド後、コマンドライン引数なしで起動
+$ cargo run -- -c -o foo.txt bar.txt 
+# -c -o foo.txt bar.txt を引数に指定して、ビルドしたプログラムを起動
+~~~
 
 ## エクササイズの準備
 
