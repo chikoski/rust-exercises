@@ -1,0 +1,6 @@
+[package]
+name = "option"
+version = "0.1.0"
+authors = ["N. Shimizu <chikoski@gmail.com>"]
+
+[dependencies]
