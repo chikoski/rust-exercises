@@ -11,6 +11,7 @@ Rustの基本的な文法と、考え方を学ぶためのエクササイズ集�
 |5|[nullを返す可能性のある関数](exercises/option/)|option|
 |6|[エラーを起こす可能性のある関数](/exercises/result/)|result|
 |7|[動的計画法に関するもの](exercises/fibonacci/)|fibonacci|
+|8|[ユーザ定義型に関するもの](exercises/cart/)|cart|
 
 ## 楽しみ方
 
