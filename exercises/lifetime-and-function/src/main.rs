@@ -61,10 +61,10 @@ impl Point {
     fn new(x: f32, y: f32) -> Point {
         Point { x: x, y: y }
     }
-    fn add(&self, diff: &Point) -> Point {
+    fn add(&self, offset: &Point) -> Point {
         Point {
-            x: self.x + diff.x,
-            y: self.y + diff.y,
+            x: self.x + offset.x,
+            y: self.y + offset.y,
         }
     }
 }
