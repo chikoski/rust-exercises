@@ -9,10 +9,11 @@ Rustの基本的な文法と、考え方を学ぶためのエクササイズ集�
 |3|[参照に関するもの](exercises/reference/)|reference|
 |4|[変更可能な参照に関するもの](exercises/mutable_reference/)|mutable_reference|
 |5|[nullを返す可能性のある関数](exercises/option/)|option|
-|6|[エラーを起こす可能性のある関数](/exercises/result/)|result|
-|7|[ライフタイムとスコープについて](/exercises/lifetime-and-scope)|lifetime-and-scope|
-|8|[動的計画法に関するもの](exercises/fibonacci/)|fibonacci|
-|9|[ユーザ定義型に関するもの](exercises/cart/)|cart|
+|6|[エラーを起こす可能性のある関数](exercises/result/)|result|
+|7|[ライフタイムとスコープについて](exercises/lifetime-and-scope)|lifetime-and-scope|
+|8|[ライフタイムと関数について](exercises/lifetime-and-function)|lifetime-and-function|
+|9|[動的計画法に関するもの](exercises/fibonacci/)|fibonacci|
+|10|[ユーザ定義型に関するもの](exercises/cart/)|cart|
 
 ## 楽しみ方
 
