@@ -17,4 +17,3 @@ fn main() {
 fn greetings(name: String) {
     println!("Hello, {}!", name);
 }
-
