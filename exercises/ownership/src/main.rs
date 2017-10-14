@@ -3,6 +3,7 @@ fn main() {
     let (word_a, word_b) = words();
     let message = format!("{}{}！", word_a, word_b);
     output(message);
+    // ゴール4：次の行をアンコメントしても実行できるようにしてください
     //output(message);
 }
 
@@ -37,4 +38,3 @@ fn remove_hiragana(text: String) -> String {
     }
     result
 }
-
